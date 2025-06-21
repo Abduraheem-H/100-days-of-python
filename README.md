@@ -9,3 +9,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 7 - Blackjack
 - ✅Day 9 - Auction
 - ✅Day 14 - Higher Lower
+- ✅Day 16 - Coffe Machine(using OOP)
