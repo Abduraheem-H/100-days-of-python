@@ -13,4 +13,5 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 17 - Quiz Project
 - ✅Day 18 - Skeching GUI
 - ✅Day 19 - Turtle Racing game
+- ✅Day 21 - Snake Game
 
