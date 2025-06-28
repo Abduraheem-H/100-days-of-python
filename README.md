@@ -3,6 +3,7 @@
 This repo contains selected projects from Angela Yu's "100 Days of Python" course. Each folder represents a specific day and project that I found valuable or fun.
 
 ## Contents
+
 - ✅Day 5 - Hangman
 - ✅Day 4 - Number Guessing
 - ✅Day 6 - Caesar Cipher
@@ -14,4 +15,5 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 18 - Skeching GUI
 - ✅Day 19 - Turtle Racing game
 - ✅Day 21 - Snake Game
-
+- ✅Day 22 - The Pong Game
+- ✅Day 23 - The Turtle Crossing Game

@@ -7,6 +7,9 @@ import time
 
 screen = Screen()
 screen.setup(width=600, height=600)
+canvas = screen.getcanvas()
+window = canvas.winfo_toplevel()
+window.geometry("+300+25")
 screen.bgcolor("black")
 screen.title("Snake Game")
 screen.tracer(0)
@@ -40,13 +43,13 @@ while game_is_on:
         or snake.head.ycor() > 284
         or snake.head.ycor() < -284
     ):
-        game_is_on = False
-        scoreboard.game_over()
+        scoreboard.reset()
+        snake.reset()
 
     for segments in snake.snake[1:]:
         if snake.head.distance(segments) < 10:
-            game_is_on = False
-            scoreboard.game_over()
+            scoreboard.reset()
+            snake.reset()
 
 
 screen.exitonclick()
