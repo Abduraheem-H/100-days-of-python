@@ -19,3 +19,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 23 - The Turtle Crossing Game
 - ✅Day 25 - U.S. State Game
 - ✅Day 27 - Python Tkinter
+- ✅Day 29 - Password Manager App
