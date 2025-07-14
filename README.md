@@ -24,3 +24,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 34 - The GUI Quiz App using API's
 - ✅Day 35 - Rain Tracker App
 - ✅Day 36 - Stock Alert Application
+- ✅Day 36 - Workout Tracking Using Google Sheets and Nutritionix NLP API
