@@ -26,3 +26,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 36 - Stock Alert Application
 - ✅Day 36 - Workout Tracking Using Google Sheets and Nutritionix NLP API
 - ✅Day 47 - The Spotify Playlist using Python Spotipy library and BeautifulSoup
+- ✅Day 48 - The Amazon Price Tracker
