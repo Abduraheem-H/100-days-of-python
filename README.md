@@ -28,3 +28,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 47 - The Spotify Playlist using Python Spotipy library and BeautifulSoup
 - ✅Day 48 - The Amazon Price Tracker
 - ✅Day 48 - Selenium Web Driver
+- ✅Day 49 - Automating LinkedIn Job Application
