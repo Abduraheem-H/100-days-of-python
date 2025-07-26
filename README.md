@@ -30,3 +30,4 @@ This repo contains selected projects from Angela Yu's "100 Days of Python" cours
 - ✅Day 48 - Selenium Web Driver
 - ✅Day 49 - Automating LinkedIn Job Application
 - ✅Day 53 - The Web Scrapping Capstone Project
+- ✅Day 57 - Blog Capstone Project using Flask and Jinja
